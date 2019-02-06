@@ -1,8 +1,7 @@
-Unity Manual TOC
+Unity Manual ToC
 ================
-
  - [EmptyRepoST]()
-	 - [NodeRenamedST](NodeToUpadateST.md)
 	 - [Node3ST](Node3ST.md)
+	 - [NodeRenamedST](NodeToUpadateST.md)
 	 - [NewNodeST](NewNodeST.md)
 
