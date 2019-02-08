@@ -1,4 +1,4 @@
-namespace DiffPlex.DiffBuilder.Model
+namespace ScriptRef
 {
     public class ClassProperty
     {
