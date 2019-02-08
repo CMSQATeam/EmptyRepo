@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace DiffPlex.DiffBuilder.Model
+namespace ScriptRef
 {
     public class DiffPaneModel
     {
